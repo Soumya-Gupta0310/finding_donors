@@ -2,7 +2,7 @@
 Download and Install the Anaconda3 Distribution
 
 ### Steps to Run the project using Jupyter Notebook:- 
-1. Clone the repository in your local machine. The url is:- https://github.com/Soumya-Gupta0310/ImageClassificationWithPyTorch.git
+1. Clone the repository in your local machine. The url is:- https://github.com/Soumya-Gupta0310/finding_donors.git
 2. Open the Anaconda Navigator(Type Anaconda Navigator in the search option provided in the taskbar of Windows10)
 3. From the Anaconda Navigator, open Jupyter Notebook IDE
 4. Using the Jupyter Notebook directory tree, navigate to the folder where the finding_donors.ipynb, census.csv and visuals.py files exist.
